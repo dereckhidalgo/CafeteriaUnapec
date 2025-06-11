@@ -89,7 +89,6 @@ StyleCopReport.xml
 **/docker-compose.vs.release.yml
 
 # Docker volumes data (si usas bind mounts locales)
-/data/
 /volumes/
 docker-data/
 
